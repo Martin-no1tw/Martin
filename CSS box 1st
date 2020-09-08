@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"></meta>
+  <title>CSS test</title>
+  <style type="text/css">
+  .title{font-weight:bold;font-size:20px}
+  .content{width:400px;padding:10px;border:1px dashed blue;margin-top:10px;margin-bottom:10px}
+  .content2{width:400px;padding:10px;border-top-style:solid;border-top-color:blue;margin-top:10px;margin-bottom:10px}
+  .keyword{color:red}
+  .box{
+     position:relative;left:200px;top:0px;
+     width:100px;height:100px;background-color:green
+	 }
+  </style>
+ </head>
+ <body>
+   <div class="title">今天天氣不錯</div>
+   <div class="content">
+   我去公園散步，餵<span class="keyword">鴿子</span>。<br/>
+   覺得鴿子好可愛喔
+   </div>
+   
+   <div class="box"></div>
+   
+   <div class="title">公園裡有很多小朋友</div>
+   <div class="content2">
+   小朋友在玩溜滑梯，還有幾隻<span class="keyword">狗狗</span>和貓貓
+   </div>
+   <div class="content">
+   許多老爺爺<span style="position:relative;top:-8px">2</span>。
+   </div>
+ </body>
+</html>
