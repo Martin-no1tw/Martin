@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8"></meta>
+<title>My name</title>
+<title>Javascript</title>
+<script type="text/javascript">
+  alert("Welcome to my board");alert("please contact me");
+</script>
+<body>
+<h3>
+<h1>My picture</h1>
+<img src="大頭貼.jpg"/>
+</h3>
+<div style="width:300px;border-top-style:solid;border-top-color:blue;border-top-width:30px"><u>
+My name is Martin!
+<div>
+<table border="1" width="400" cellpadding="5">
+<tr>
+<td>name</td>
+<td>description</td>
+</tr>
+<tr>
+<td>C1</td>
+<td>components</td>
+</tr>
+<tr>
+<td>C2</td>
+<td>components2</td>
+</tr>
+</u></div>
+</body>
+</head>
